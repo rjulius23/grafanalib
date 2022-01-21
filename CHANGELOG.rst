@@ -8,6 +8,13 @@ Changelog
 * Added support for fields value in Stat panel
 * Added ``alertName`` parameter to AlertList panel
 
+0.6.2 (2022-01-21)
+==================
+
+Changes
+-------
+* Fixes #452
+
 0.6.1 (2021-11-23)
 ==================
 
