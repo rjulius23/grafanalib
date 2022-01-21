@@ -2023,7 +2023,8 @@ class Stat(Panel):
                         'decimals': self.decimals,
                         'mappings': self.mappings,
                         'unit': self.format,
-                        'noValue': self.noValue
+                        'noValue': self.noValue,
+                        'thresholds': self.thresholds
                     },
                     'overrides': self.overrides
                 },
